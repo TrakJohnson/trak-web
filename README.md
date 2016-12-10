@@ -1,3 +1,3 @@
 # trak-web
-[Page](trakjohnson.github.io)
+[Page](http://trakjohnson.github.io/trak-web/)
 Github page
