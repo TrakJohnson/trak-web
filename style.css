@@ -1,5 +1,39 @@
 #title {
     font-family: "Lato", sans-serif;
     font-style: bold;
-    font-size: 18px; 
+    font-size: 24px;
+    margin: 0 auto 0 0;
+    text-align: center;
+}
+
+#menubar {
+    background: #3399FF;
+    color: white;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.spacer  /* so that the menu does not overlap content */
+{
+    width: 100%;
+    height: 95px;
+}
+
+body {
+    padding: 10px;
+    background: #323232;
+}
+
+#content {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    padding-top: 50px;
+}
+
+.p_canvas {
+    height: 30%;
+    width: 40%;
 }
