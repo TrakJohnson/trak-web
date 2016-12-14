@@ -1,0 +1,17 @@
+/* style sheet for everything Process.js related */
+
+.p_title {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+}
+
+.p_canvas {
+  height: 30%;
+  width: 40%;
+  position: relative;
+  margin: auto;
+}
+
+canvas {
+  margin-left: 50%;
+}
