@@ -1,0 +1,93 @@
+<h2 id="sciences-economiques-et-sociales">Sciences Economiques et Sociales</h2>
+
+
+
+<h1 id="chapitre-2-ménages-et-consommation">Chapitre 2: Ménages et Consommation</h1>
+
+<p>Un <strong><code>ménage</code></strong> désigne « l’ensemble des personnes (apparentées ou non) qui partagent de manière habituelle un même logement et qui ont un budget en commun. » Insee.</p>
+
+<p><strong>Ex.</strong> Une famille qui cohabite, un célibataire vivant seul</p>
+
+
+
+<h1 id="i-les-revenus-de-ménages">I. Les revenus de ménages</h1>
+
+
+
+<h2 id="a-les-ressources-des-ménages">A) Les ressources des ménages</h2>
+
+
+
+<h3 id="1-les-différents-types-de-revenus">1. Les différents types de revenus</h3>
+
+<pre><code>Patrimoine ≠ Revenu
+     |          |
+   Stock      Flux
+</code></pre>
+
+
+
+<h4 id="les-revenus-salariaux">- Les revenus salariaux</h4>
+
+<p>En France, 3/4 des travailleurs sont des salariés.  </p>
+
+<p>Le salaire est la rémunération versée par un employeur à un salarié en contrepartie du travail fourni (conformément au contrat de travail)  </p>
+
+<p>L’Etat a fixé un salaire minimum, le SMIC (Salaire Minimum Interprofessionnel de Croissance) en dessous duquel un employeur ne peut pas descendre</p>
+
+<pre><code>SMIC (brut) 2016: 9,67 €/h
+</code></pre>
+
+<p><strong>Questions:</strong>  </p>
+
+<ul>
+<li>Quel était le SMIC mensuel en 2016? (35h hebdomadaire et 52 semaines/an)  </li>
+<li>Sachant que le SMIC a augmenté de 0,93% le 01/01/2017, quel est le nouveau SMIC mensuel?</li>
+</ul>
+
+<blockquote>
+  <p>SMIC 2016: <code>9,67 * 35 * 52 / 12 = 1 466,62 €</code> <br>
+  SMIC 2017: <code>1 466,62 * 1,0093 = 1 480,26 €</code></p>
+</blockquote>
+
+<h4 id="dautres-revenus-du-travail">- D’autres revenus du travail</h4>
+
+<ul>
+<li>Les bénéfices (entreprises)</li>
+<li>Les honoraires (professions libérales)</li>
+</ul>
+
+<h4 id="les-revenus-du-patrimoine-ou-de-la-propriété-ou-du-capital">- Les revenus du patrimoine (ou de la propriété ou du capital)</h4>
+
+<ul>
+<li>Les revenus immobiliers <br>
+<ul><li>Ex: le loyer</li></ul></li>
+<li>Les revenus mobiliers <br>
+<ul><li>Ex: dividendes ou intérêts</li></ul></li>
+</ul>
+
+<p>Les revenus primaires correspondent donc aux revenus versés à ceux qui ont participé à la création de richesses (soit en travaillant, soit en apportant leur patrimoine)</p>
+
+<h3 id="2-les-revenus-de-transfert">2. Les revenus de transfert</h3>
+
+
+
+<h4 id="les-prestations-sociales">- Les prestations sociales</h4>
+
+<p>Prise en charge collective, des conséquences financières des «risques sociaux», c’est-à-dire de situations susceptibles de compromettre la sécurité économique de l’individu ou de sa famille, par exemple en cas de: </p>
+
+<ul>
+<li>Vieillesse</li>
+<li>Maladie</li>
+<li>Invalidité</li>
+<li>Chômage</li>
+<li>Maternité</li>
+<li>Charges de famille</li>
+</ul>
+
+<h3 id="3-le-revenu-disponible">3. Le revenu disponible</h3>
+
+<pre><code>Revenu disponible = Revenus primaires + Revenus de transfert - Prélèvements obligatoires (impôt et cotisations sociales)
+</code></pre>
+
+<p>Le <code>revenu disponible</code> est donc le revenu dont dispose le ménage pour consommer ou épargner, c’est-à-dire la somme des différents revenus qu’il reçoit, diminuée par les prélèvements obligatoires (impôts directs et cotisations sociales). </p>
